@@ -12,6 +12,7 @@ venv/
 # Operating system clutter.
 .DS_Store
 Thumbs.db
+._*
 
 # Database exports never belong in a public repository.
 *.dump
